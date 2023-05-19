@@ -7,3 +7,5 @@
 - ⚡ Fun fact: I like cooking Pasta, especially when I'm listening to music.
 
 <img src="https://komarev.com/ghpvc/?username=gabrielegrillo&style=flat-square&color=blue" alt=""/>
+
+[![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielegrillo)](https://github.com/gabrielegrillo/)
