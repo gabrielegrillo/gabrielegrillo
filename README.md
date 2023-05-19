@@ -8,4 +8,4 @@
 
 <img src="https://komarev.com/ghpvc/?username=gabrielegrillo&style=flat-square&color=blue" alt=""/>
 
-[![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielegrillo)](https://github.com/gabrielegrillo/)
+[![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielegrill&count_private=true&theme=trasparent&show_icons=true)](https://github.com/gabrielegrillo/)
