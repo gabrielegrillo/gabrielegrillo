@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-          
 # Hi there from Italy 👋 :it:
 
 <img src="https://i.giphy.com/media/KPWe0UMX3SoTPCxMzx/giphy.webp" alt="" width="250"/>
@@ -29,7 +27,7 @@
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 5%" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="50" /></a>
-<a href=''><i class="devicon-microsoftsqlserver-plain-wordmark" style="color: white; font-size: 500%;"></i></a>
+<a href=''><img style="margin: 5%" src="https://cyclr.com/wp-content/uploads/2022/03/ext-550.png" alt="MSSQL" height="50"></a>
 <a href="https://www.java.com" target="_blank"><img style="margin: 5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" /></a>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" height="50" /></a>  
 </div>
