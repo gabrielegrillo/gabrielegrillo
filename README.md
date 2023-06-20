@@ -1,9 +1,3 @@
-<style>
-  i {
-    color: white;
-    font-size: 500%;
-  }
-</style>
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
           
 # Hi there from Italy 👋 :it:
@@ -35,7 +29,7 @@
 <div align="center">  
 <a href="https://www.python.org/" target="_blank"><img style="margin: 5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 5%" src="https://upload.wikimedia.org/wikipedia/commons/b/bd/Logo_C_sharp.svg" alt="C#" height="50" /></a>
-<a href=''><i class="devicon-microsoftsqlserver-plain-wordmark"></i></a>
+<a href=''><i class="devicon-microsoftsqlserver-plain-wordmark" style="color: white; font-size: 500%;"></i></a>
 <a href="https://www.java.com" target="_blank"><img style="margin: 5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="50" /></a>
 <a href="https://www.php.net/" target="_blank"><img style="margin: 5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" alt="PHP" height="50" /></a>  
 </div>
@@ -48,7 +42,7 @@
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://git-scm.com/" target="_blank"><img style="margin: 5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><i class="devicon-bash-plain"></i></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><i class="devicon-bash-plain" style="color: white; font-size: 500%;"></i></a>  
 <a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" alt="Raspberry Pi" height="50" /></a>  
 <a href="https://www.arduino.cc/" target="_blank"><img style="margin: 5%" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" alt="Arduino" height="50" /></a>  
 </div>
