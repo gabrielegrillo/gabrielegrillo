@@ -50,6 +50,17 @@
 <br/>  
 
 
+## Github Stats  
+
+![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielegrillo&count_private=true&theme=dark&show_icons=true)
+
+
+<img src="https://komarev.com/ghpvc/?username=gabrielegrillo&style=flat-square&color=blue" alt=""/>
+
+
+<br/>  
+
+
 ## Connect with me  
 <div align="center">
   <a href="https://twitter.com/gabrielegrillo0" target="_blank">
@@ -62,11 +73,3 @@
   
 
 <br/>  
-
-
-## Github Stats  
-
-![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielegrillo&count_private=true&theme=dark&show_icons=true)
-
-
-<img src="https://komarev.com/ghpvc/?username=gabrielegrillo&style=flat-square&color=blue" alt=""/>
