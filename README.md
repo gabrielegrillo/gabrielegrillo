@@ -2,7 +2,7 @@
 
 <img src="https://media.tenor.com/qLPr-ts8xkIAAAAM/hasbulla.gif" alt="" width="300"/>
 
-- 🌱 I’m currently a student of Computer Science at @DeMaCS-UNICAL , looking forward to master my skills and learn new ones.
+- 🌱 I’m currently a student of Computer Science at [Unical](https://corsi.unical.it/lt-lmcu/informatica/), looking forward to master my skills and learn new ones.
 - 📫 How to reach me: Feel free to have a chat with me on [Discord](https://discord.com/channels/@me/481005067990990849/) or by [email](mailto:gabriele.grillo.2003@gmail.com)
 - ⚡ Fun fact: I like cooking Pasta, especially when I'm listening to music.
 
