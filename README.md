@@ -10,7 +10,7 @@
 ## Github Stats  
 
 ![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielegrillo&count_private=true&theme=dark&show_icons=true)
-[![Gab's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielegrillo)](https://github.com/anuraghazra/github-readme-stats)
+[![Gab's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielegrillo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img src="https://komarev.com/ghpvc/?username=gabrielegrillo&style=flat-square&color=blue" alt=""/>
