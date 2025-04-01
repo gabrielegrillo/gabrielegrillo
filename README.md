@@ -8,9 +8,8 @@
 
 📫 feel free to reach out to me!
 
-[//]: # (aggiustare tasto linkedin)
 
-[![linkedin](https://img.shields.io/badge/linkedin&style=flat&color=006400)](https://linkedin.com/in/gabrielegrillo03) [![views](https://komarev.com/ghpvc/?username=gabrielegrillo&style=flat&color=006400&label=views)]()
+[![linkedin](https://img.shields.io/badge/linkedin-006400)](https://linkedin.com/in/gabrielegrillo03) [![views](https://komarev.com/ghpvc/?username=gabrielegrillo&style=flat&color=006400&label=views)]()
 
 <br>
 <br>
