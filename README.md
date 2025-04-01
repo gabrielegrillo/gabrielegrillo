@@ -1,11 +1,19 @@
-# Hi there from Italy 👋 :it:
+<img align="left" src="https://media.tenor.com/qLPr-ts8xkIAAAAM/hasbulla.gif" alt="" width="300"/>
 
-<img src="https://media.tenor.com/qLPr-ts8xkIAAAAM/hasbulla.gif" alt="" width="300"/>
 
-- 🌱 I’m currently a student of Computer Science at [Unical](https://corsi.unical.it/lt-lmcu/informatica/), looking forward to master my skills and learn new ones.
-- 📫 How to reach me: Feel free to have a chat with me on [Discord](https://discord.com/channels/@me/481005067990990849/) or by [email](mailto:gabriele.grillo.2003@gmail.com)
+### hey!
+
+
+- 🌱 Computer Science student @ [Unical](https://corsi.unical.it/lt-lmcu/informatica/)
+
+- 📫 
+
 - ⚡ Fun fact: I like cooking Pasta, especially when I'm listening to music.
 
+<br>
+<br>
+<br>
+<br>
 
 ## Github Stats  
 
@@ -16,7 +24,7 @@
 [![Gab's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielegrillo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://komarev.com/ghpvc/?username=gabrielegrillo&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=gabrielegrillo&style=flat-square&color=006400" alt=""/>
 
 
 <br/>  
