@@ -1,41 +1,31 @@
-<img align="left" src="https://media.tenor.com/qLPr-ts8xkIAAAAM/hasbulla.gif" alt="" width="300"/>
+<img align="left" src="https://64.media.tumblr.com/340c303825d7430bf8c64b9c03b6a609/7fa670638414d2a5-9b/s400x600/25ff9c6c572c761c1caf3ca1a06a2cccef9a8131.gifv" alt="" width="267">
 
+### hey! it's gab
 
-### hey!
+💾 computer science student @ [Unical](https://corsi.unical.it/lt-lmcu/informatica/)
 
+🌱 an aspiring backend software engineer
 
-- 🌱 Computer Science student @ [Unical](https://corsi.unical.it/lt-lmcu/informatica/)
+📫 feel free to reach out to me!
 
-- 📫 
+[//]: # (aggiustare tasto linkedin)
 
-- ⚡ Fun fact: I like cooking Pasta, especially when I'm listening to music.
+[![linkedin](https://img.shields.io/badge/linkedin&style=flat&color=006400)](https://linkedin.com/in/gabrielegrillo03) [![views](https://komarev.com/ghpvc/?username=gabrielegrillo&style=flat&color=006400&label=views)]()
 
 <br>
 <br>
 <br>
 <br>
+<br>
 
-## Github Stats  
+
+
+## github Stats  
 
 ![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielegrillo&count_private=true&theme=dark&show_icons=true)
-
-
-
 [![Gab's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielegrillo&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<img src="https://komarev.com/ghpvc/?username=gabrielegrillo&style=flat-square&color=006400" alt=""/>
-
 
 <br/>  
 
-
-## Connect with me  
-<div align="center">
-<a href="https://linkedin.com/in/gabrielegrillo03" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
