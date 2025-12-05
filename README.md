@@ -22,7 +22,7 @@
 ## github stats  
 
 
-![Gab's GitHub stats](https://github-readme-stats.vercel.app/api?username=gabrielegrillo&count_private=true&theme=dark&show_icons=true)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielegrillo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
 
 
 
