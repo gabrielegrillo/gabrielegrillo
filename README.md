@@ -10,11 +10,6 @@
 
 [![linkedin](https://img.shields.io/badge/linkedin-006400)](https://linkedin.com/in/gabrielegrillo03) [![gpg](https://img.shields.io/badge/gpg_key-0x5F-006400)](https://github.com/gabrielegrillo.gpg) [![views](https://komarev.com/ghpvc/?username=gabrielegrillo&style=flat&color=006400&label=views)]()
 
-<br>
-<br>
-<br>
-<br>
-<br>
 
 
 <details>
