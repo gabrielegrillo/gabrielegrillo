@@ -20,7 +20,7 @@
 ## github stats  
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielegrillo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=gabrielegrillo&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&a=a)](https://git.io/streak-stats)
 <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=gabrielegrillo&amp;theme=dark&amp;hide_border=false&amp;include_all_commits=true&amp;count_private=true&amp;layout=compact" alt="">
 
 
